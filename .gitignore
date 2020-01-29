@@ -1,5 +1,4 @@
 .vscode/launch.json
-**/*.dump
 **/*.zip
 **/*session*.txt
 **/flag.txt
